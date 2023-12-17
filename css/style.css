@@ -75,3 +75,11 @@ body {
 .visit:hover{
   background-color: rgb(3, 49, 3) !important;
 }
+@media all and (min-width: 0px) and (max-width: 600px) {
+  .err-list {
+    font-size: 13px !important;
+  }
+  .err-p{
+    font-size: 20 !important;
+  }
+}
